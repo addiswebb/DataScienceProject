@@ -8,3 +8,23 @@
 data/map_of_ireland/
 
 map_of_ireland/high_detail/
+
+map_of_ireland/low_detail/ie_100km.dbf
+
+map_of_ireland/low_detail/ie_100km.png
+
+map_of_ireland/low_detail/ie_100km.prj
+
+map_of_ireland/low_detail/ie_100km.shp
+
+map_of_ireland/low_detail/ie_100km.shx
+
+map_of_ireland/mid_detail/ie_10km.dbf
+
+map_of_ireland/mid_detail/ie_10km.png
+
+map_of_ireland/mid_detail/ie_10km.prj
+
+map_of_ireland/mid_detail/ie_10km.shp
+
+map_of_ireland/mid_detail/ie_10km.shx
