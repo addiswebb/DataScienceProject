@@ -28,3 +28,5 @@ map_of_ireland/mid_detail/ie_10km.prj
 map_of_ireland/mid_detail/ie_10km.shp
 
 map_of_ireland/mid_detail/ie_10km.shx
+
+*.geojson
