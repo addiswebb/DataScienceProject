@@ -3,8 +3,6 @@
 
 *.csv
 
-2000_analysis/output/
-
 data/map_of_ireland/
 
 map_of_ireland/high_detail/
